@@ -139,4 +139,4 @@ class Projects extends BaseModel {
   }
 }
 
-module.exports = Projects;
+export default Projects;
